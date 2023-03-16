@@ -41,10 +41,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <ProjectReference Include="..\AutomationScript_ClassLibrary\AutomationScript_ClassLibrary.csproj">
-      <Project>{AF9145E1-76B7-470F-A3F5-2C49B2416314}</Project>
-      <Name>AutomationScript_ClassLibrary</Name>
-    </ProjectReference>
     <AdditionalFiles Include="stylecop.json" />
     <Content Include=".editorconfig" />
   </ItemGroup>

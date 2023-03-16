@@ -23,8 +23,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Analysis", "Code Analy
 		Internal\Code Analysis\qaction-release.ruleset = Internal\Code Analysis\qaction-release.ruleset
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationScript_ClassLibrary", "AutomationScript_ClassLibrary\AutomationScript_ClassLibrary.csproj", "{AF9145E1-76B7-470F-A3F5-2C49B2416314}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HelloWorld", "HelloWorld", "{39B7BA9E-FD62-4AF7-B4FC-84DF0BADF573}"
 	ProjectSection(SolutionItems) = preProject
 		HelloWorld.xml = HelloWorld.xml
@@ -40,10 +38,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AF9145E1-76B7-470F-A3F5-2C49B2416314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF9145E1-76B7-470F-A3F5-2C49B2416314}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF9145E1-76B7-470F-A3F5-2C49B2416314}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF9145E1-76B7-470F-A3F5-2C49B2416314}.Release|Any CPU.Build.0 = Release|Any CPU
 		{799EF3C7-B2E8-4832-9752-C6BCED9DD92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{799EF3C7-B2E8-4832-9752-C6BCED9DD92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{799EF3C7-B2E8-4832-9752-C6BCED9DD92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -54,7 +48,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{39389882-46FF-4DD5-BCD8-E1FB50F164D9} = {D528C522-E9E3-4BB0-9698-F3D70EA62CA5}
-		{AF9145E1-76B7-470F-A3F5-2C49B2416314} = {D528C522-E9E3-4BB0-9698-F3D70EA62CA5}
 		{39B7BA9E-FD62-4AF7-B4FC-84DF0BADF573} = {756EBBD5-2FAE-45FB-9DA0-2B594E489A4B}
 		{2742D7DC-0A1A-4AA7-83D0-E1C8924F40E8} = {39B7BA9E-FD62-4AF7-B4FC-84DF0BADF573}
 		{799EF3C7-B2E8-4832-9752-C6BCED9DD92F} = {2742D7DC-0A1A-4AA7-83D0-E1C8924F40E8}
