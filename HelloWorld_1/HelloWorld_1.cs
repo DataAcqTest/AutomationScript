@@ -62,6 +62,6 @@ public class Script
 {
 	public void Run(Engine engine)
 	{
-		engine.GenerateInformation("Hello world!");
+		engine.GenerateInformation("Hello,, world!");
 	}
 }
